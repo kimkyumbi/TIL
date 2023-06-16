@@ -144,4 +144,3 @@ public class ChildClass extends SameClass {
 
  public > protected > default > private
 
---- 
