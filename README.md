@@ -14,9 +14,18 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230711-1.md" > SWIFT / Unwrap Optional 변수 </a>
 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230712-1.md" > SWIFT / Class와 Struct </a>
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230711-1.md" > SWIFT / Class와 Struct </a>
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230712-2.md" > SWIFT / 프로퍼티 옵저버 속성 감시자 </a>
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230712-1.md" > SWIFT / 프로퍼티 옵저버 속성 감시자 </a>
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230713-1.md" > SWIFT / 함수, 메서드 </a>
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230712-2.md" > SWIFT / 함수, 메서드 </a>
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230713-2.md" > SWIFT / 제네릭 </a>
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230713-3.md" > SWIFT / 클로저 </a>
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230714-1.md" > SWIFT / 매개변수로서의 클로저 </a>
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230715-1.md" > SWIFT / 클로저 + </a>
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230715-2.md" > SWIFT / 객체 생성자, 해제자 </a>
