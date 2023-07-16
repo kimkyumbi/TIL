@@ -29,3 +29,7 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230715-1.md" > SWIFT / 클로저 + </a>
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230715-2.md" > SWIFT / 객체 생성자, 해제자 </a>
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230715-3.md" > SWIFT / Optional Unwrapping</a>
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230716-1.md" > SWIFT / 상속 </a>
