@@ -1,6 +1,6 @@
 # TIL
 ## 하루동안 배운것을 기록합니다.
-## (최대한) 무자본으로 공부하는 iOS
+## 무자본으로 공부하는 iOS
 
 ### iOS
 ---
@@ -51,3 +51,7 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230717-6.md" > SWIFT / mutating </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230717-7.md" > SWIFT / Set </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230718-1.md" > SWIFT / struct 메서드 </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230719-1.md" > SWIFT / 프로토콜(protocol) </a> 
