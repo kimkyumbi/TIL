@@ -55,3 +55,9 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230718-1.md" > SWIFT / struct 메서드 </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230719-1.md" > SWIFT / 프로토콜(protocol) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230720-1.md" > SWIFT / 프로토콜 확장(protocol extension) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230721-1.md" > SWIFT / protocol associatedtype </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230722-1.md" > SWIFT / typealias </a> 
