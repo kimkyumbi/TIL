@@ -67,3 +67,19 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230725-1.md" > SWIFT / HStack, VStack, ZStack </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230726-1.md" > SWIFT / Spacer </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230727-1.md" > SWIFT / MVVM(Model, View, ViewModel) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230728-1.md" > SWIFT / 고차함수 </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230729-1.md" > SWIFT / 고차함수 sort, sorted (정렬) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230730-1.md" > SWIFT / private(set) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230731-1.md" > SWIFT / foreach문에서 인덱스 가져오기 </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230801-1.md" > SWIFT / Getter, Setter </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230802-1.md" > SWIFT / Codable </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230803-1.md" > SWIFT / Button </a> 
