@@ -83,3 +83,7 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230802-1.md" > SWIFT / Codable </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230803-1.md" > SWIFT / Button </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230803-2.md" > SWIFT / Text </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230804-1.md" > SWIFT / ScrollView </a> 
