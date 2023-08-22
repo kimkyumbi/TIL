@@ -87,3 +87,35 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230803-2.md" > SWIFT / Text </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230804-1.md" > SWIFT / ScrollView </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230805-1.md" > SWIFT / List </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230807-1.md" > SWIFT / List(Section) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230808-1.md" > SWIFT / Color </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230809-1.md" > SWIFT / frame </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230810-1.md" > SWIFT / frame & alignment </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230811-1.md" > SWIFT / background & overlay </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230812-1.md" > SWIFT / @State </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230813-1.md" > SWIFT / TabView </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230814-1.md" > SWIFT / TextField </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230815-1.md" > SWIFT / SecureField </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230816-1.md" > SWIFT / self 프로퍼티 </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230817-1.md" > SWIFT / NavigationView와 NavigationStack </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230818-1.md" > SWIFT / Toggle </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230821-1.md" > SWIFT / sheet(Modal) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-1.md" > SWIFT / Label </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-2.md" > SWIFT / ProgressView </a> 
