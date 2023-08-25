@@ -119,3 +119,9 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-1.md" > SWIFT / Label </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-2.md" > SWIFT / ProgressView </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-3.md" > SWIFT / struct </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230824-1.md" > SWIFT / shape </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230825-1.md" > SWIFT / Group </a> 
