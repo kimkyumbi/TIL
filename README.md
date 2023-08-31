@@ -125,3 +125,15 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230824-1.md" > SWIFT / shape </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230825-1.md" > SWIFT / Group </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230827-1.md" > SWIFT / Animation </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230828-1.md" > SWIFT / @State+ </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230829-1.md" > SWIFT / @Binding </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230830-1.md" > SWIFT / 함수(func) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230830-2.md" > SWIFT / 문자열 보간법 </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230901-1.md" > SWIFT / class </a> 
