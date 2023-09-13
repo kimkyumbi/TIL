@@ -142,3 +142,20 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230904-1.md" > SWIFT / @FocusState와 TextField </a> 
 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230905-1.md" > SWIFT / Codable </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230906-1.md" > SWIFT / closure의 경량화 문법 (Trailing closure) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230907-1.md" > SWIFT / closure의 경량화 문법 (2) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230908-1.md" > SWIFT / LazyStack </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230909-1.md" > SWIFT / LazyGrid - VGrid </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230910-1.md" > SWIFT / LazyGrid - HGrid </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230911-1.md" > SWIFT / GeometryReader </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230912-1.md" > SWIFT / 옵셔녈 바인딩(Optional Binding), if let, guard let </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230913-1.md" > SWIFT / 동기(sync)와 비동기(async) </a> 
