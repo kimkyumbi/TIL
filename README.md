@@ -158,4 +158,4 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230912-1.md" > SWIFT / 옵셔녈 바인딩(Optional Binding), if let, guard let </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230914-1.md" > SWIFT / 동기(sync)와 비동기(async)# </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230914-1.md" > SWIFT / 동기(sync)와 비동기(async) </a> 
