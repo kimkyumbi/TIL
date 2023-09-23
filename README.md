@@ -159,3 +159,11 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230912-1.md" > SWIFT / 옵셔녈 바인딩(Optional Binding), if let, guard let </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230914-1.md" > SWIFT / 동기(sync)와 비동기(async) </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230918-1.md" > SWIFT / GCD </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230919-1.md" > SWIFT / Alert </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230920-1.md" > SWIFT / border </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230922-1.md" > SWIFT / onAppear(), onDisappear() </a> 
