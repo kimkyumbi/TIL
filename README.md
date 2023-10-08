@@ -180,4 +180,6 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231001-1.md" > SWIFT / 제네릭(Generic) </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231001-1.md" > SWIFT / Picker </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231002-1.md" > SWIFT / Picker </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231006-1.md" > SWIFT / @Published </a> 
