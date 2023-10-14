@@ -185,3 +185,5 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231006-1.md" > SWIFT / @Published </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231008-1.md" > SWIFT / @ObservedObject </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231010-1.md" > SWIFT / 오류처리의 정의와 방법 </a> 
