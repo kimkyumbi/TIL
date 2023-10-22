@@ -189,3 +189,9 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231010-1.md" > SWIFT / 오류처리의 정의와 방법 </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231011-1.md" > SWIFT / Divider </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231019-1.md" > SWIFT / Navigation </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231019-1.md" > SWIFT / sheet, fullScreenCover </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231020-1.md" > SWIFT / dismiss </a> 
