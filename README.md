@@ -2,7 +2,7 @@
 ## 하루동안 배운것을 기록합니다.
 ## 무자본으로 공부하는 iOS
 ---
-### iOS
+### iOS 공부
 ---
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230710-1.md" > SWIFT / 조건문 </a>
 
