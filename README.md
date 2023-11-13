@@ -195,3 +195,5 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231019-1.md" > SWIFT / sheet, fullScreenCover </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231020-1.md" > SWIFT / dismiss </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/231114-1.md" > SWIFT / Gesture </a> 
