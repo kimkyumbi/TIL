@@ -124,7 +124,7 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230824-1.md" > SWIFT / shape </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230825-1.md" > SWIFT / Group </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Group.md" > SWIFT / Group </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230827-1.md" > SWIFT / Animation </a> 
 
