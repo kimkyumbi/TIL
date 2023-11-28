@@ -102,15 +102,15 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230812-1.md" > SWIFT / @State </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230813-1.md" > SWIFT / TabView </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/TapView.md" > SWIFT / TabView </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230814-1.md" > SWIFT / TextField </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/TextField.md" > SWIFT / TextField </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230815-1.md" > SWIFT / SecureField </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/SecureField.md" > SWIFT / SecureField </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230816-1.md" > SWIFT / self 프로퍼티 </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/self.md" > SWIFT / self 프로퍼티 </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230817-1.md" > SWIFT / NavigationView와 NavigationStack </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/NavigationView, NavigationStack.md" > SWIFT / NavigationView와 NavigationStack </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230818-1.md" > SWIFT / Toggle </a> 
 
