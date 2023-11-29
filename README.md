@@ -112,11 +112,11 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/NavigationView, NavigationStack.md" > SWIFT / NavigationView와 NavigationStack </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230818-1.md" > SWIFT / Toggle </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/toggle.md" > SWIFT / Toggle </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230821-1.md" > SWIFT / sheet(Modal) </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-1.md" > SWIFT / Label </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Label.md" > SWIFT / Label </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-2.md" > SWIFT / ProgressView </a> 
 
