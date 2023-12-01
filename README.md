@@ -134,7 +134,7 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230830-1.md" > SWIFT / 함수(func) </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230830-2.md" > SWIFT / 문자열 보간법 </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/문자열보간법.md" > SWIFT / 문자열 보간법 </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230902-1.md" > SWIFT / class </a> 
 
