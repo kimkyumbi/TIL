@@ -100,7 +100,7 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230811-1.md" > SWIFT / background & overlay </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230812-1.md" > SWIFT / @State </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/State.md" > SWIFT / @State </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/TapView.md" > SWIFT / TabView </a> 
 
@@ -114,35 +114,35 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/toggle.md" > SWIFT / Toggle </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230821-1.md" > SWIFT / sheet(Modal) </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/sheet.md" > SWIFT / sheet(Modal) </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Label.md" > SWIFT / Label </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-2.md" > SWIFT / ProgressView </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/ProgressView.md" > SWIFT / ProgressView </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230822-3.md" > SWIFT / struct </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/structmd" > SWIFT / struct </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230824-1.md" > SWIFT / shape </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/shape.md" > SWIFT / shape </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Group.md" > SWIFT / Group </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230827-1.md" > SWIFT / Animation </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Animation.md" > SWIFT / Animation </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230828-1.md" > SWIFT / @State+ </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/State+.md" > SWIFT / @State+ </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230829-1.md" > SWIFT / @Binding </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Binding.md" > SWIFT / @Binding </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230830-1.md" > SWIFT / 함수(func) </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/문자열보간법.md" > SWIFT / 문자열 보간법 </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230902-1.md" > SWIFT / class </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/class.md" > SWIFT / class </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230903-1.md" > SWIFT / @Environment </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Environment.md" > SWIFT / @Environment </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230904-1.md" > SWIFT / @FocusState와 TextField </a> 
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230905-1.md" > SWIFT / Codable </a> 
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Codable.md" > SWIFT / Codable </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/closure의 경량화.md" > SWIFT / closure의 경량화 문법 (Trailing closure) </a> 
 
