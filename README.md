@@ -8,7 +8,7 @@
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/.md" > SWIFT / foreach 반복문 </a>
 
-- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/230710-3.md" > SWIFT / enum case 나누기 </a>
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/enum-case나누기.md" > SWIFT / enum case 나누기 </a>
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/For반복문.md" > SWIFT / For 반복문 </a>
 
