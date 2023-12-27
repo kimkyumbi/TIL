@@ -4,6 +4,42 @@ ARC(Automatic Reference Counting)는 자동으로 메모리를 관리해주는 �
 
 ARC는 참조 카운트를 관리하고, 참조 카운트가 0이 되면 메모리를 해제한다.
 
+```swift
+class MSG {
+    let gsm: String
+    init(name: String) {
+        self.name = name
+        print("\(name) is MSG")
+    }
+    deinit {
+        print("\(name) is GSM")
+    }
+}
+var reference1: MSG?
+var reference2: MSG?
+var reference3: MSG?
+
+reference1 = MSG(name: "GSM")
+reference2 = reference1
+reference3 = reference1
+```
+
+위 코드에서 MSG 객체의 참조 카운트는 3이 된다. 
+
+만약 여기서,
+
+```swift
+reference1 = nil
+reference3 = nil
+reference2 = nil 
+```
+
+이 코드가 이어서 있다면, 
+
+MSG 객체의 참조를 차례대로 해제함으로써 참조 카운트는 0이 된다. 
+
+## Strong Reference Cycle
+
 하지만, 두개의 클래스 객체가 서로를 강하게 참조하고 있다면 어떻게 될까? 
 
 이러한 경우를 Strong Reference Cycle이라고 한다. 
@@ -65,6 +101,38 @@ weak Reference는 객체에 강한 참조를 유지하지 않기 때문에, ARC�
 
 하지만 변수를 weak로 선언한다면, 런타임 때 자동적으로 nil로 변하는 것을 허락해야 하기 때문에 옵셔널로 선언해야 한다. 
 
+```swift
+class GSM {
+    weak var msg: MSG?
+
+    deinit {
+        print("deinit GSM")
+    }
+}
+
+class MSG {
+    weak var gsm: GSM?
+
+    deinit {
+        print("deinit MSG")
+    }
+
+}
+
+var a: GSM? = GSM()
+var b: MSG? = MSG()
+
+a?.msg = b
+b?.gsm = a
+
+a = nil
+b = nil
+```
+
+위 코드처럼 변수 앞에 둘 다 weak를 붙여도 되지만, 
+
+둘중 하나에만 weak를 붙여도 결과는 변하지 않는다.
+
 ### unowned 
 
 unowned는 weak와 달리 항상 갑이 있다는 전제하에 사용된다. 
@@ -72,3 +140,33 @@ unowned는 weak와 달리 항상 갑이 있다는 전제하에 사용된다.
 그래서 옵셔널을 만들지 않고, ARC 또한 자동적으로 unowned reference를 nil로 처리하지 않는다. 
 
 그리하여 unowned는 weak와 달리 system을 abort시킬수 있는 위험이 있기 때문에 주의해서 사용해야 한다.
+
+```swift
+class GSM {
+    unowned var msg: MSG?
+
+    deinit {
+        print("deinit GSM")
+    }
+}
+
+class MSG {
+    unowned var gsm: GSM?
+
+    deinit {
+        print("deinit MSG")
+    }
+
+}
+
+var a: GSM? = GSM()
+var b: MSG? = MSG()
+
+a?.msg = b
+b?.gsm = a
+
+a = nil
+b = nil
+```
+
+weak의 코드에서 weak를 unowned로 바꾸어도 결과는 변하지 않는다.
