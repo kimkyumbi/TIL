@@ -1,4 +1,4 @@
-# 230724-1 / SWIFT / lasy 
+# 230724-1 / SWIFT / lazy 
 ```swift
 import UIKit
 
@@ -20,7 +20,7 @@ struct Friend {
     }
 }
 
-var myFriend = Friend("쩡대리")
+var myFriend = Friend("홍길동")
 
 // 접근했을때 Pet이 생성되서 메모리에 올라가는 걸 볼 수 있다.
 myFriend.pet
