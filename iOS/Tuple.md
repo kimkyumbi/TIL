@@ -83,3 +83,23 @@ func tuple() -> (Int,String,Bool) {   
 ```
 
 이렇게 말이다.
+
+---
+
+### typealias 
+
+와 같이 쓸 수 있다.
+
+```swift
+typealias People = (name:String, age:Int, likes:[String])
+```
+
+People이라는 타입을 튜플로 만들고,
+
+변수에 People 타입을 지정해주면?
+
+```swift
+var people1: People = ("KGB", 18, ["heart", "iOS"])
+```
+
+이렇게 튜플을 받을 수 있다.
