@@ -103,3 +103,9 @@ var people1: People = ("KGB", 18, ["heart", "iOS"])
 ```
 
 이렇게 튜플을 받을 수 있다.
+
+```swift
+var peopleArr : [People] = [("Zedd",999,["Swift","iOS"]),("Your_Name",123,["Piano","Poet"])]
+```
+
+배열로도 받을 수 있다.
