@@ -197,3 +197,5 @@
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/dismiss.md" > SWIFT / dismiss </a> 
 
 - <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/Gesture.md" > SWIFT / Gesture </a> 
+
+- <a href = "https://github.com/kimkyumbi/TIL/blob/main/iOS/DelegatePattern.md" > SWIFT / DelegatePattern </a> 
