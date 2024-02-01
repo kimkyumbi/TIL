@@ -53,3 +53,24 @@ struct Day12: View {
 ```
 
 위 코드처럼 중간지점을 Group으로 묶어주면 1부터 11까지 매우 정상적으로 나오는 것을 확인할 수 있다. 
+
+또, 공통으로 쓰이는 modifier가 있을 때도 쓸 수 있다. 
+
+```swift
+struct Day12: View {
+    var body: some View {
+        VStack {
+            Group {
+                Text("1")
+                Text("2")
+                Text("3")
+                Text("4")
+                Text("5")
+            }
+            .foregroundColor(.blue)
+        }
+    }
+}
+```
+ 
+이렇게 Text 1부터 5의 색을 blue로 설정하고 싶을 때도 group을 이용해 일일이 쓰지 않고 한번에 적용할 수 있다. 
